@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoTHUB v1.0", "IoTHUB v1.0.csproj", "{A102ACB1-4280-47D1-9919-0E9E7AD3B10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOTHUB", "..\IOTHUB\IOTHUB.csproj", "{450B2EC6-295E-42C7-9739-FE53D2886083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A102ACB1-4280-47D1-9919-0E9E7AD3B10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A102ACB1-4280-47D1-9919-0E9E7AD3B10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A102ACB1-4280-47D1-9919-0E9E7AD3B10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A102ACB1-4280-47D1-9919-0E9E7AD3B10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450B2EC6-295E-42C7-9739-FE53D2886083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450B2EC6-295E-42C7-9739-FE53D2886083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450B2EC6-295E-42C7-9739-FE53D2886083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450B2EC6-295E-42C7-9739-FE53D2886083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF644CAC-C88A-46D3-8390-3D5B23B73085}
+	EndGlobalSection
+EndGlobal

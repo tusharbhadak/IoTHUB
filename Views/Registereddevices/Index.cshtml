@@ -1,0 +1,71 @@
+﻿@model IEnumerable<IoTHUB_v1._0.Models.RegistereddevicesTbl>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head"><h1>Registered Devices</h1></div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a asp-action="Create" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i> Registered Device
+            </a>
+        </div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Device)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.User)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Createddate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Updateddate)
+                    </th>
+
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Device.Devicename)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.User.Username)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Createddate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Updateddate)
+                    </td>
+
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.RegdevId"
+                           class="btn btn-info">
+                            <i class="glyphicon glyphicon-pencil"></i>  Edit
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.RegdevId" class="btn btn-danger">
+                            <i class="glyphicon glyphicon-trash"></i>  Delete
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.RegdevId" class="btn btn-primary">
+                            <i class="glyphicon glyphicon-trash"></i>  Details
+                        </a>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

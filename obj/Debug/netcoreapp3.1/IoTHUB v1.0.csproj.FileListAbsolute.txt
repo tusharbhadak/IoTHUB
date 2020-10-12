@@ -1,0 +1,280 @@
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.exe
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.deps.json
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.runtimeconfig.json
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.runtimeconfig.dev.json
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\staticwebassets\IoTHUB v1.0.StaticWebAssets.Manifest.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\staticwebassets\IoTHUB v1.0.StaticWebAssets.xml
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.RazorAssemblyInfo.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.RazorAssemblyInfo.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.AssemblyInfoInputs.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.AssemblyInfo.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.TagHelpers.input.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.TagHelpers.output.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.RazorCoreGenerate.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\AddEmployee.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\EmpDetail.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Complaintype\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Complaintype\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Complaintype\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Complaintype\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Complaintype\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Devicecategory\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Devicecategory\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Devicecategory\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Devicecategory\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Devicecategory\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Deviceperm\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Deviceperm\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Deviceperm\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Deviceperm\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Deviceperm\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Device\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Device\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Device\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Device\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Device\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\HelpSupport\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\HelpSupport\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\HelpSupport\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\HelpSupport\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\HelpSupport\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\MasterAdmin\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Registereddevices\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Registereddevices\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Registereddevices\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Registereddevices\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Registereddevices\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Requestservice\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Requestservice\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Requestservice\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Requestservice\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Requestservice\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Rfid\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Rfid\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Rfid\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Rfid\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Rfid\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Role\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Role\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Role\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Service\Create.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Service\Delete.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Service\Details.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Service\Edit.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Service\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Employee.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\login.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Masteradmin.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.RazorTargetAssemblyInfo.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.RazorTargetAssemblyInfo.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.csproj.CopyComplete
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.Views.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\IoTHUB v1.0.Views.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.Views.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Emp\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Changepass.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.csprojAssemblyReference.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn45\csc.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn45\vbc.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn45\VBCSCompiler.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn46\csc.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn46\csi.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn46\vbc.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn46\VBCSCompiler.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn472\csc.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn472\csi.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn472\vbc.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\tools\Roslyn472\VBCSCompiler.exe.config
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.genruntimeconfig.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tushar\source\repos\IoTHUB v1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\IoTHUB v1.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Inquiry\Index.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewClient.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Viewuser.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Viewemp.cshtml.g.cs
+C:\Users\Tushar\source\repos\IoTHUB v1.0\obj\Debug\netcoreapp3.1\Razor\Views\Account\Viewadmin.cshtml.g.cs

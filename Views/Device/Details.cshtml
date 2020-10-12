@@ -1,0 +1,49 @@
+﻿@model IoTHUB_v1._0.Models.DeviceTbl
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/Masteradmin.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>DeviceTbl</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Devicename)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Devicename)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Createddate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Createddate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Updateddate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Updateddate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Devicecat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Devicecat.Devicecatname)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.DeviceId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

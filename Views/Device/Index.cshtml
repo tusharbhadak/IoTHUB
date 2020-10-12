@@ -1,0 +1,79 @@
+﻿@model IEnumerable<IoTHUB_v1._0.Models.DeviceTbl>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Masteradmin.cshtml";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head"><h1>Devices</h1></div>
+    <div class="panel-body">
+        <div class="btn-group">
+            <a asp-action="Create" class="btn btn-primary">
+                <i class="glyphicon glyphicon-plus"></i>  Add Device
+            </a>
+        </div>
+        <div>
+            <form method="get" asp-action="Index">
+                <p>
+                    <input type="search" placeholder="Enter device Name..." value="@ViewData["GetDeviceDetails"]" name="Devicesearch" style="width:600px;" />
+                    <input type="submit" value="Search" class="btn btn-primary" />
+                </p>
+            </form>
+        </div>
+        <table class="table table-bordered table-striped table-condensed">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Devicename)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Devicecat)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Description)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Createddate)
+                    </th>
+            
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Devicename)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DevicecatId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Createddate)
+                    </td>
+
+
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.DeviceId"
+                           class="btn btn-info">
+                            <i class="glyphicon glyphicon-pencil"></i>  Edit
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.DeviceId" class="btn btn-danger">
+                            <i class="glyphicon glyphicon-trash"></i>  Delete
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.DeviceId" class="btn btn-primary">
+                            <i class="glyphicon glyphicon-trash"></i>  Details
+                        </a>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

@@ -1,0 +1,108 @@
+﻿@model IoTHUB_v1._0.ViewModels.UserViewModel;
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/Masteradmin.cshtml";
+}
+
+<h1>Create</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Username" class="control-label"></label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNo" class="control-label"></label>
+                <input asp-for="PhoneNo" class="form-control" />
+                <span asp-validation-for="PhoneNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Companyname" class="control-label"></label>
+                <input asp-for="Companyname" class="form-control" />
+                <span asp-validation-for="Companyname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Companyemail" class="control-label"></label>
+                <input asp-for="Companyemail" class="form-control" />
+                <span asp-validation-for="Companyemail" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Isactive" /> @Html.DisplayNameFor(model => model.Isactive)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Isparent" /> @Html.DisplayNameFor(model => model.Isparent)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoleId" class="control-label"></label>
+                <select asp-for="RoleId" class="form-control" asp-items="ViewBag.RoleId"></select>
+            </div>
+           
+            <div class="form-group">
+                <label asp-for="ServiceId" class="control-label"></label>
+                <select asp-for="ServiceId" class="form-control" asp-items="ViewBag.ServiceId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Createddate" class="control-label"></label>
+                <input asp-for="Createddate" class="form-control" />
+                <span asp-validation-for="Createddate" class="text-danger"></span>
+            </div>
+            <div class="col-md-6">
+                <div class="form-control">
+                    <label asp-for="ProfileImage" class="control-label"></label>
+                    <div class="custom-file">
+                        <input asp-for="ProfileImage" class="form-control" id="customFile">
+                        <label class="custom-file-label" for="customFile">Choose file</label>
+                    </div>
+                    <span asp-validation-for="ProfileImage" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+    <script type="text/javascript">
+
+        // Add the following code if you want the name of the file appear on select
+        $(".custom-file-input").on("change", function () {
+            var fileName = $(this).val().split("\\").pop();
+            $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+        });
+    </script>
+
+

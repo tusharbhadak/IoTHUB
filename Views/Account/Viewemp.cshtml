@@ -1,0 +1,65 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            max-width: 500px;
+            margin: auto;
+            text-align: center;
+            font-family: arial;
+        }
+        .card img {
+                align-self: center
+        }
+
+        .title {
+            color: grey;
+            font-size: 18px;
+        }
+
+        button {
+            border: none;
+            outline: 0;
+            display: inline-block;
+            padding: 8px;
+            color: white;
+            background-color: green;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+            font-size: 18px;
+        }
+
+        a {
+            text-decoration: none;
+            font-size: 22px;
+            color: black;
+        }
+
+            button:hover, a:hover {
+                opacity: 0.7;
+            }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align:center">Profile</h2>
+
+    <div class="card">
+        <img src="~/Images/@Context.Session.GetString("Mediapath")" alt="NJ" style="width:60%">
+        <h1>@Context.Session.GetString("Username")</h1>
+
+        <p>Username       :- @Context.Session.GetString("Username")</p>
+        <p>Email			:- @Context.Session.GetString("Email")</p>
+        <p>Mobile No		:- @Context.Session.GetString("PhoneNo")</p>
+        <p>Address		:- @Context.Session.GetString("Address")</p>
+        <p>Company name	:- @Context.Session.GetString("Companyname")</p>
+        <p>Company email	:- @Context.Session.GetString("Companyemail")</p>
+        <p><button>Back</button></p>
+    </div>
+
+</body>
+</html>

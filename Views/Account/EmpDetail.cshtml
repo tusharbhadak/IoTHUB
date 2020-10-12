@@ -1,0 +1,82 @@
+﻿@model IoTHUB_v1._0.Models.UserTbl
+
+@{
+    ViewData["Title"] = "EmpDetail";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<h1>Employee Details</h1>
+
+<div>
+    
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+      
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PhoneNo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PhoneNo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Companyname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Companyname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Companyemail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Companyemail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Isactive)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Isactive)
+        </dd>
+       
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Createddate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Createddate)
+        </dd>
+      
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Role)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Role.Rolename)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Service)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Service.Servicename)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.UserId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
